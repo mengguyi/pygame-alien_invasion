@@ -19,7 +19,7 @@ from button import Button
 from scoreboard import Scoreboard
 
 pygame.mixer.init()
-pygame.mixer.music.load('suns.mp3')
+pygame.mixer.music.load('suns.wav')
 
 def run_game():
     # 初始化游戏并创建一个屏幕对象
